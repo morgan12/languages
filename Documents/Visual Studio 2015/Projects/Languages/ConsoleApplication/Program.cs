@@ -53,6 +53,12 @@ namespace ConsoleApplication
                     UserName = "Morgan",
                     Location = "Nashville"
                 };
+                var UserChristian = new Users
+                {
+                    UserName = "Christian",
+                    Location = "Nashville"
+                };
+
                 var UserBrooklyn = new Users
                 {
                     UserName = "Brooklyn",
